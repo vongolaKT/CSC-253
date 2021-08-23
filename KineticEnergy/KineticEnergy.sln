@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{73CB94D7-F86C-4B6D-8C1F-C36042223845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyClassLibrary", "EnergyClassLibrary\EnergyClassLibrary.csproj", "{45511E24-1E78-432C-925E-905807BF9D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73CB94D7-F86C-4B6D-8C1F-C36042223845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CB94D7-F86C-4B6D-8C1F-C36042223845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CB94D7-F86C-4B6D-8C1F-C36042223845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CB94D7-F86C-4B6D-8C1F-C36042223845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45511E24-1E78-432C-925E-905807BF9D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45511E24-1E78-432C-925E-905807BF9D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45511E24-1E78-432C-925E-905807BF9D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45511E24-1E78-432C-925E-905807BF9D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689BAF7F-0041-480C-84A5-69C11ECF4E8D}
+	EndGlobalSection
+EndGlobal
