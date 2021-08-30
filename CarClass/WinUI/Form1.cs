@@ -9,6 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using CarLibrary;
 
+/**
+* 8/29/2021
+* CSC 253
+* Kevin Griffin
+* Creates a car object with certain information given from the user. Also includes two methods in the car class to modify the speed property of the object, then displays current information.
+*/
+
 namespace WinUI
 {
     public partial class CarForm : Form
