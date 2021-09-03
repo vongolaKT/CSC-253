@@ -9,6 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using LettersClassLibrary;
 
+/**
+* 9/3/2021
+* CSC 253
+* Kevin Griffin
+* Finds the average number of letters per word entered into input and displays that average
+*/
+
 namespace WinUI
 {
     public partial class Form1 : Form
