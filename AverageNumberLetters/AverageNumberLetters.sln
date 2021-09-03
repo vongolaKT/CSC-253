@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{C42B80A1-B353-458D-8B47-984CB6FC6683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LettersClassLibrary", "LettersClassLibrary\LettersClassLibrary.csproj", "{0C8011A7-2BD0-4328-8473-D9D4113EE2A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42B80A1-B353-458D-8B47-984CB6FC6683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42B80A1-B353-458D-8B47-984CB6FC6683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42B80A1-B353-458D-8B47-984CB6FC6683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42B80A1-B353-458D-8B47-984CB6FC6683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8011A7-2BD0-4328-8473-D9D4113EE2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8011A7-2BD0-4328-8473-D9D4113EE2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8011A7-2BD0-4328-8473-D9D4113EE2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8011A7-2BD0-4328-8473-D9D4113EE2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6919597-9B44-42F4-9FF3-675B7BAD0C50}
+	EndGlobalSection
+EndGlobal
