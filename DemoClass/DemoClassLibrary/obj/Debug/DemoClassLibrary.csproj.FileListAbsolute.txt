@@ -1,0 +1,12 @@
+C:\Users\buckwelw5455\Desktop\DemoClass\DemoClassLibrary\bin\Debug\DemoClassLibrary.dll
+C:\Users\buckwelw5455\Desktop\DemoClass\DemoClassLibrary\bin\Debug\DemoClassLibrary.pdb
+C:\Users\buckwelw5455\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.csprojAssemblyReference.cache
+C:\Users\buckwelw5455\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\buckwelw5455\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.dll
+C:\Users\buckwelw5455\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.pdb
+C:\Users\griffink3794\Desktop\DemoClass\DemoClassLibrary\bin\Debug\DemoClassLibrary.dll
+C:\Users\griffink3794\Desktop\DemoClass\DemoClassLibrary\bin\Debug\DemoClassLibrary.pdb
+C:\Users\griffink3794\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.csprojAssemblyReference.cache
+C:\Users\griffink3794\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\griffink3794\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.dll
+C:\Users\griffink3794\Desktop\DemoClass\DemoClassLibrary\obj\Debug\DemoClassLibrary.pdb
