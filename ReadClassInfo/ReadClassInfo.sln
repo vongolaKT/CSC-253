@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUI", "WinUI\WinUI.csproj", "{4EC594A1-EEE0-490A-907D-A54962D3351D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonClassLibrary", "PersonClassLibrary\PersonClassLibrary.csproj", "{AF13BD99-90CE-4C00-98F2-C1CDE11960D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC594A1-EEE0-490A-907D-A54962D3351D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC594A1-EEE0-490A-907D-A54962D3351D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC594A1-EEE0-490A-907D-A54962D3351D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC594A1-EEE0-490A-907D-A54962D3351D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF13BD99-90CE-4C00-98F2-C1CDE11960D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF13BD99-90CE-4C00-98F2-C1CDE11960D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF13BD99-90CE-4C00-98F2-C1CDE11960D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF13BD99-90CE-4C00-98F2-C1CDE11960D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD9B99DA-ABA0-4AF2-B4B9-4FF127806495}
+	EndGlobalSection
+EndGlobal
