@@ -1,0 +1,7 @@
+C:\Users\griffink3794\source\repos\DemoDB\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\griffink3794\source\repos\DemoDB\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\griffink3794\source\repos\DemoDB\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\griffink3794\source\repos\DemoDB\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\griffink3794\source\repos\DemoDB\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\griffink3794\source\repos\DemoDB\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\griffink3794\source\repos\DemoDB\ConsoleUI\obj\Debug\ConsoleUI.pdb
