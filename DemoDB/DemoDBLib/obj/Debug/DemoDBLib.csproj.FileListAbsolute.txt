@@ -1,0 +1,7 @@
+C:\Users\griffink3794\source\repos\DemoDB\DemoDBLib\bin\Debug\Database1.mdf
+C:\Users\griffink3794\source\repos\DemoDB\DemoDBLib\bin\Debug\Database1_log.ldf
+C:\Users\griffink3794\source\repos\DemoDB\DemoDBLib\bin\Debug\DemoDBLib.dll
+C:\Users\griffink3794\source\repos\DemoDB\DemoDBLib\bin\Debug\DemoDBLib.pdb
+C:\Users\griffink3794\source\repos\DemoDB\DemoDBLib\obj\Debug\DemoDBLib.csproj.CoreCompileInputs.cache
+C:\Users\griffink3794\source\repos\DemoDB\DemoDBLib\obj\Debug\DemoDBLib.dll
+C:\Users\griffink3794\source\repos\DemoDB\DemoDBLib\obj\Debug\DemoDBLib.pdb
